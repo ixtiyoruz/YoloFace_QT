@@ -1,5 +1,10 @@
 # YoloFace_QT
 The GUI application for FaceNet which comes alongside with DLIB and HAAR usage
+requriments:
+opencv-3.4.4
+tensorflow
+pyqt
+
 Usage
 first download yoloface repository from this url:https://github.com/sthanhng/yoloface
 and put in here in YoloFace_Qt directory.
@@ -9,3 +14,4 @@ Download the model, [facenet_keras.h5](https://www.dropbox.com/s/xwn57bffg5xobb8
 	
 Keep the face images of people you want to recognize in `databases` directory. 
 if you want to detect faces with more accuracy, you can put two or more images in dataset just put numbers as we represented in dataset  directory.
+
