@@ -5,7 +5,7 @@ The GUI application for FaceNet which comes alongside with DLIB and HAAR usage
 requriments:
 opencv-3.4.4
 tensorflow
-pyqt
+pyqt4
 </p>
 
 Usage
