@@ -1,9 +1,12 @@
 # YoloFace_QT
 The GUI application for FaceNet which comes alongside with DLIB and HAAR usage
+
+<p>
 requriments:
 opencv-3.4.4
 tensorflow
 pyqt
+</p>
 
 Usage
 first download yoloface repository from this url:https://github.com/sthanhng/yoloface
